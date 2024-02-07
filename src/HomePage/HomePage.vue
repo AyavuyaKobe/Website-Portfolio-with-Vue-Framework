@@ -87,3 +87,329 @@ export default {
   props: {},
   data() {},
 };
+</script>
+<style scoped>
+.home-page,
+.home-page * {
+  box-sizing: border-box;
+}
+.home-page {
+  background: #4b4453;
+  padding: 0px 23px 0px 23px;
+  height: 100vh;
+  width: 1280px;
+  position: relative;
+  overflow: hidden;
+}
+.ayavuya-kobe {
+  width: 400px;
+  height: 22px;
+  position: absolute;
+  left: 55px;
+  top: 10px;
+}
+.ayavuya-kobe2 {
+  color: #c34a36;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 22px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.screenshot-7-1 {
+  width: 668px;
+  height: 372px;
+  position: absolute;
+  left: 451px;
+  top: 0px;
+}
+.rectangle-33 {
+  background: #d9d9d9;
+  border-radius: 16px;
+  width: 120px;
+  height: 32px;
+  position: absolute;
+  left: 1150px;
+  top: 10px;
+}
+.junior-software-developer {
+  width: 1000px;
+  height: 154px;
+  position: absolute;
+  left: 45px;
+  top: 201px;
+}
+.junior-software-developer2 {
+  color: #c34a36;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.filled {
+  width: 424.26px;
+  height: 424.26px;
+  position: absolute;
+  left: 650px;
+  top: 250px;
+}
+.filled2 {
+  position: absolute;
+  right: 29.29%;
+  left: 0%;
+  width: 70.71%;
+  bottom: -20.71%;
+  top: 50%;
+  height: 70.71%;
+  transform-origin: 0 0;
+  transform: rotate(-45deg) scale(1, 1);
+}
+.rectangle-147 {
+  background: linear-gradient(
+    183.23deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  position: absolute;
+  right: 44.1%;
+  left: 0%;
+  width: 55.9%;
+  bottom: -5.9%;
+  top: 50%;
+  height: 55.9%;
+  transform-origin: 0 0;
+  transform: rotate(-45deg) scale(0.632, 1.265);
+}
+.rectangle-148 {
+  background: linear-gradient(
+    183.23deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  position: absolute;
+  right: -5.9%;
+  left: 50%;
+  width: 55.9%;
+  bottom: -5.9%;
+  top: 50%;
+  height: 55.9%;
+  transform-origin: 0 0;
+  transform: rotate(-45deg) scale(0.632, 1.265);
+}
+.addressing-design-challenges-constructing-intelligent-user-interfaces-with-meaningful-interactions-and-creating-sophisticated-web-applications-and-fluid-online-experiences {
+  color: #ff8066;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  position: absolute;
+  left: 45px;
+  top: 391px;
+}
+.nav-on-the-side {
+  position: absolute;
+  inset: 0;
+}
+.nav-bar-ii {
+  width: 39px;
+  height: 341px;
+  position: static;
+}
+._4 {
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 1200px;
+  top: 693px;
+}
+._03 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: -66.67%;
+  left: 0%;
+  width: 166.67%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.vector-10 {
+  width: 0px;
+  height: 295px;
+  position: absolute;
+  left: 1200px;
+  top: 422px;
+  overflow: visible;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1426.4px;
+  top: 741px;
+  width: 24px;
+  height: 14.4px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1445px;
+  top: 400px;
+  width: 17px;
+  height: 17.4px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+._02 {
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 1200px;
+  top: 558px;
+}
+._02-default {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+._022 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: -66.67%;
+  left: 0%;
+  width: 166.67%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+._01 {
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 1200px;
+  top: 437px;
+}
+._012 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: -66.67%;
+  left: 0%;
+  width: 166.67%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.about-me {
+  color: #c34a36;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 45px;
+  top: 600px;
+}
+.cv-button {
+  background: #4b4453;
+  width: 165px;
+  height: 38px;
+  position: absolute;
+  left: 45px;
+  top: 805px;
+}
+.rectangle-1 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #ffffff, #ffffff);
+  border-radius: 16px;
+  position: absolute;
+  right: 79.12%;
+  left: 0%;
+  width: 20.88%;
+  bottom: -478.93%;
+  top: 100%;
+  height: 478.93%;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.download-cv {
+  color: #c34a36;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 2.58%;
+  width: 97.42%;
+  bottom: 2.3%;
+  top: 22.99%;
+  height: 74.71%;
+}
+.icon-git-hub {
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 251px;
+  top: 805px;
+  overflow: visible;
+}
+.download-cv2 {
+  color: #c34a36;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 22px;
+  font-weight: 800;
+  position: absolute;
+  left: 55px;
+  top: 810px;
+}
+.contact {
+  color: #c34a36;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 22px;
+  font-weight: 800;
+  position: absolute;
+  left: 1160px;
+  top: 10px;
+  width: 100px;
+  height: 22px;
+}  
+</style>
