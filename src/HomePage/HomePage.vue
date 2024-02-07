@@ -3,8 +3,7 @@
     <div class="ayavuya-kobe">
       <div class="ayavuya-kobe2">Ayavuya Kobe</div>
     </div>
-    <div class="screenshot-7-1"></div>
-    <div class="rectangle-33"></div>
+    <div class="contact-button"></div>
     <div class="junior-software-developer">
       <div class="junior-software-developer2">
         JUNIOR SOFTWARE
@@ -46,21 +45,21 @@
         >
           <path d="M1.30005 0V295" stroke="white" />
         </svg>
-        <div class="div">&lt;</div>
-        <div class="div2">&lt;</div>
+        <div class="Nav-down">&lt;</div>
+        <div class="Nav-up">&lt;</div>
       </div>
       <div class="_02">
         <div class="_02-default">
-          <div class="_022">02</div>
+          <div class="Nav02">02</div>
         </div>
       </div>
       <div class="_01">
-        <div class="_012">01</div>
+        <div class="Nav01">01</div>
       </div>
     </div>
     <div class="about-me">About me &gt;</div>
     <div class="cv-button">
-      <div class="rectangle-1"></div>
+      <div class="CV-Button"></div>
       <div class="download-cv"></div>
     </div>
     <svg
@@ -122,14 +121,7 @@ export default {
   top: 0%;
   height: 100%;
 }
-.screenshot-7-1 {
-  width: 668px;
-  height: 372px;
-  position: absolute;
-  left: 451px;
-  top: 0px;
-}
-.rectangle-33 {
+.contact-button {
   background: #d9d9d9;
   border-radius: 16px;
   width: 120px;
@@ -177,7 +169,7 @@ export default {
   transform-origin: 0 0;
   transform: rotate(-45deg) scale(1, 1);
 }
-.rectangle-147 {
+/* .rectangle-147 {
   background: linear-gradient(
     183.23deg,
     rgba(255, 255, 255, 1) 0%,
@@ -192,8 +184,8 @@ export default {
   height: 55.9%;
   transform-origin: 0 0;
   transform: rotate(-45deg) scale(0.632, 1.265);
-}
-.rectangle-148 {
+} */
+/* .rectangle-148 {
   background: linear-gradient(
     183.23deg,
     rgba(255, 255, 255, 1) 0%,
@@ -208,7 +200,7 @@ export default {
   height: 55.9%;
   transform-origin: 0 0;
   transform: rotate(-45deg) scale(0.632, 1.265);
-}
+} */
 .addressing-design-challenges-constructing-intelligent-user-interfaces-with-meaningful-interactions-and-creating-sophisticated-web-applications-and-fluid-online-experiences {
   color: #ff8066;
   text-align: left;
@@ -219,15 +211,15 @@ export default {
   left: 45px;
   top: 391px;
 }
-.nav-on-the-side {
+/* .nav-on-the-side {
   position: absolute;
   inset: 0;
-}
-.nav-bar-ii {
+} */
+/* .nav-bar-ii {
   width: 39px;
   height: 341px;
   position: static;
-}
+} */
 ._4 {
   width: 8px;
   height: 8px;
@@ -249,42 +241,42 @@ export default {
   top: 0%;
   height: 100%;
 }
-.vector-10 {
+/* .vector-10 {
   width: 0px;
   height: 295px;
   position: absolute;
-  left: 1200px;
-  top: 422px;
+  left: 800px;
+  top: 437px;
   overflow: visible;
-}
-.div {
+}  */
+.Nav-down {
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Bold", sans-serif;
   font-size: 24px;
   font-weight: 700;
   position: absolute;
-  left: 1426.4px;
+  left: 1220.4px;
   top: 741px;
   width: 24px;
   height: 14.4px;
   transform-origin: 0 0;
   transform: rotate(-90deg) scale(1, 1);
-}
-.div2 {
+} 
+.Nav-up {
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Bold", sans-serif;
   font-size: 24px;
   font-weight: 700;
   position: absolute;
-  left: 1445px;
-  top: 400px;
+  left: 1250px;
+  top: 415px;
   width: 17px;
   height: 17.4px;
   transform-origin: 0 0;
   transform: rotate(90deg) scale(1, 1);
-}
+} 
 ._02 {
   width: 8px;
   height: 8px;
@@ -301,7 +293,8 @@ export default {
   top: 0%;
   height: 100%;
 }
-._022 {
+
+.Nav02 {
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Bold", sans-serif;
@@ -322,7 +315,7 @@ export default {
   left: 1200px;
   top: 437px;
 }
-._012 {
+.Nav01 {
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Bold", sans-serif;
@@ -354,7 +347,7 @@ export default {
   left: 45px;
   top: 805px;
 }
-.rectangle-1 {
+.CV-Button {
   background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     linear-gradient(to left, #ffffff, #ffffff);
   border-radius: 16px;
@@ -411,5 +404,5 @@ export default {
   top: 10px;
   width: 100px;
   height: 22px;
-}  
+} 
 </style>
