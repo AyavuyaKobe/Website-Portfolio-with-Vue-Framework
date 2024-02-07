@@ -13,8 +13,8 @@
     </div>
     <div class="filled">
       <div class="filled2">
-        <div class="rectangle-147"></div>
-        <div class="rectangle-148"></div>
+        <!-- <div class="rectangle-147"></div>
+        <div class="rectangle-148"></div> -->
       </div>
     </div>
     <div
