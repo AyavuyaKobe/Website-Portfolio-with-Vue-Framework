@@ -167,35 +167,7 @@ export default {
   left: 45px;
   top: 391px;
 }
-
-/* .Nav-down {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Bold", sans-serif;
-  font-size: 24px;
-  font-weight: 700;
-  position: absolute;
-  left: 1220.4px;
-  top: 741px;
-  width: 24px;
-  height: 14.4px;
-  transform-origin: 0 0;
-  transform: rotate(-90deg) scale(1, 1);
-} 
-.Nav-up {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Bold", sans-serif;
-  font-size: 24px;
-  font-weight: 700;
-  position: absolute;
-  left: 1250px;
-  top: 415px;
-  width: 17px;
-  height: 17.4px;
-  transform-origin: 0 0;
-  transform: rotate(90deg) scale(1, 1);
-} 
+ 
 ._02 {
   width: 8px;
   height: 8px;
