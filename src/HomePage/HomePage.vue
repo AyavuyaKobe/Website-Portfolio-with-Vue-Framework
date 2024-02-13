@@ -41,29 +41,6 @@
       and fluid online experiences.
     </div>
 
-    <!-- Navigation on the side section -->
-    <div class="nav-on-the-side">
-      <div class="nav-bar-ii">
-        <!-- Navigation bar elements -->
-        <div class="_4">
-          <div class="_03">03</div>
-        </div>
-        <svg class="vector-10" width="2" height="295" viewBox="0 0 2 295" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M1.30005 0V295" stroke="white" />
-        </svg>
-        <div class="Nav-down">&lt;</div>
-        <div class="Nav-up">&lt;</div>
-      </div>
-      <div class="_02">
-        <div class="_02-default">
-          <div class="Nav02">02</div>
-        </div>
-      </div>
-      <div class="_01">
-        <div class="Nav01">01</div>
-      </div>
-    </div>
-
     <!-- About me section -->
     <div class="about-me">About me &gt;</div>
 
@@ -230,7 +207,7 @@ export default {
   height: 341px;
   position: static;
 } */
-._4 {
+/* ._4 {
   width: 8px;
   height: 8px;
   position: absolute;
@@ -250,7 +227,7 @@ export default {
   bottom: 0%;
   top: 0%;
   height: 100%;
-}
+} */
 /* .vector-10 {
   width: 0px;
   height: 295px;
@@ -259,7 +236,7 @@ export default {
   top: 437px;
   overflow: visible;
 }  */
-.Nav-down {
+/* .Nav-down {
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Bold", sans-serif;
@@ -338,7 +315,7 @@ export default {
   bottom: 0%;
   top: 0%;
   height: 100%;
-}
+} */
 .about-me {
   color: #c34a36;
   text-align: left;
