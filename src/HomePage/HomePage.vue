@@ -156,38 +156,7 @@ export default {
   transform-origin: 0 0;
   transform: rotate(-45deg) scale(1, 1);
 }
-/* .rectangle-147 {
-  background: linear-gradient(
-    183.23deg,
-    rgba(255, 255, 255, 1) 0%,
-    rgba(255, 255, 255, 0) 100%
-  );
-  position: absolute;
-  right: 44.1%;
-  left: 0%;
-  width: 55.9%;
-  bottom: -5.9%;
-  top: 50%;
-  height: 55.9%;
-  transform-origin: 0 0;
-  transform: rotate(-45deg) scale(0.632, 1.265);
-} */
-/* .rectangle-148 {
-  background: linear-gradient(
-    183.23deg,
-    rgba(255, 255, 255, 1) 0%,
-    rgba(255, 255, 255, 0) 100%
-  );
-  position: absolute;
-  right: -5.9%;
-  left: 50%;
-  width: 55.9%;
-  bottom: -5.9%;
-  top: 50%;
-  height: 55.9%;
-  transform-origin: 0 0;
-  transform: rotate(-45deg) scale(0.632, 1.265);
-} */
+
 .addressing-design-challenges-constructing-intelligent-user-interfaces-with-meaningful-interactions-and-creating-sophisticated-web-applications-and-fluid-online-experiences {
   color: #ff8066;
   text-align: left;
