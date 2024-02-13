@@ -206,20 +206,6 @@ export default {
   left: 1200px;
   top: 437px;
 }
-.Nav01 {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Bold", sans-serif;
-  font-size: 20px;
-  font-weight: 700;
-  position: absolute;
-  right: -66.67%;
-  left: 0%;
-  width: 166.67%;
-  bottom: 0%;
-  top: 0%;
-  height: 100%;
-} */
 .about-me {
   color: #c34a36;
   text-align: left;
