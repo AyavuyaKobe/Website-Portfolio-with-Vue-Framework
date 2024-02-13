@@ -167,44 +167,7 @@ export default {
   left: 45px;
   top: 391px;
 }
-/* .nav-on-the-side {
-  position: absolute;
-  inset: 0;
-} */
-/* .nav-bar-ii {
-  width: 39px;
-  height: 341px;
-  position: static;
-} */
-/* ._4 {
-  width: 8px;
-  height: 8px;
-  position: absolute;
-  left: 1200px;
-  top: 693px;
-}
-._03 {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Bold", sans-serif;
-  font-size: 20px;
-  font-weight: 700;
-  position: absolute;
-  right: -66.67%;
-  left: 0%;
-  width: 166.67%;
-  bottom: 0%;
-  top: 0%;
-  height: 100%;
-} */
-/* .vector-10 {
-  width: 0px;
-  height: 295px;
-  position: absolute;
-  left: 800px;
-  top: 437px;
-  overflow: visible;
-}  */
+
 /* .Nav-down {
   color: #ffffff;
   text-align: left;
