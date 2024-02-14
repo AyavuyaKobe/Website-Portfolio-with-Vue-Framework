@@ -19,15 +19,6 @@
       </div>
     </div>
 
-    <!-- Filled section with rectangles (commented out) -->
-    <div class="filled">
-      <div class="filled2">
-        <!-- Rectangles can be added here if needed -->
-        <!-- <div class="rectangle-147"></div> -->
-        <!-- <div class="rectangle-148"></div> -->
-      </div>
-    </div>
-
     <!-- Addressing design challenges section -->
     <div class="addressing-design-challenges-constructing-intelligent-user-interfaces-with-meaningful-interactions-and-creating-sophisticated-web-applications-and-fluid-online-experiences">
       Addressing design challenges,
@@ -62,7 +53,6 @@
 
     <!-- Contact section -->
     <div class="contact">Contact</div>
-
   </div>
 </template>
 
@@ -93,7 +83,7 @@ export default {
   position: absolute;
   left: 55px;
   top: 10px;
-}
+} 
 .ayavuya-kobe2 {
   color: #c34a36;
   text-align: left;
@@ -138,25 +128,6 @@ export default {
   top: 0%;
   height: 100%;
 }
-.filled {
-  width: 424.26px;
-  height: 424.26px;
-  position: absolute;
-  left: 650px;
-  top: 250px;
-}
-.filled2 {
-  position: absolute;
-  right: 29.29%;
-  left: 0%;
-  width: 70.71%;
-  bottom: -20.71%;
-  top: 50%;
-  height: 70.71%;
-  transform-origin: 0 0;
-  transform: rotate(-45deg) scale(1, 1);
-}
-
 .addressing-design-challenges-constructing-intelligent-user-interfaces-with-meaningful-interactions-and-creating-sophisticated-web-applications-and-fluid-online-experiences {
   color: #ff8066;
   text-align: left;
@@ -166,45 +137,6 @@ export default {
   position: absolute;
   left: 45px;
   top: 391px;
-}
- 
-._02 {
-  width: 8px;
-  height: 8px;
-  position: absolute;
-  left: 1200px;
-  top: 558px;
-}
-._02-default {
-  position: absolute;
-  right: 0%;
-  left: 0%;
-  width: 100%;
-  bottom: 0%;
-  top: 0%;
-  height: 100%;
-}
-
-.Nav02 {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Bold", sans-serif;
-  font-size: 20px;
-  font-weight: 700;
-  position: absolute;
-  right: -66.67%;
-  left: 0%;
-  width: 166.67%;
-  bottom: 0%;
-  top: 0%;
-  height: 100%;
-}
-._01 {
-  width: 8px;
-  height: 8px;
-  position: absolute;
-  left: 1200px;
-  top: 437px;
 }
 .about-me {
   color: #c34a36;
