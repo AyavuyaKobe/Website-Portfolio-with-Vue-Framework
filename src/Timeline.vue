@@ -176,7 +176,7 @@
     top: 64.06%;
     height: 7.46%;
     overflow: visible;
-  } 
+  }
   .vector4 {
     height: auto;
     position: absolute;
@@ -315,16 +315,6 @@
     left: 59px;
     top: 10px;
   }
-  /* .home {
-    color: #c34a36;
-    text-align: left;
-    font-family: "Inter-ExtraBold", sans-serif;
-    font-size: 32px;
-    font-weight: 800;
-    position: absolute;
-    left: 137px;
-    top: 22px;
-  } */
   .home {
     color: #c34a36;
     text-align: left;
@@ -356,5 +346,163 @@
     width: 100px;
     height: 22px;
   }
+  
+  /* Media query for smaller screens */
+  @media only screen and (max-width: 767px) {
+      /* Header */
+      .my-timeline2 {
+          font-size: 22px;
+          left:110px;
+          top: 70px;
+      }
+  
+      /* Education and Work */
+      .matric,
+      .bachelor,
+      .software-developer-intern,
+      .junior-software-developer {
+          font-size: 15px;
+      }
+  
+      .matric { left: 30px; top: 290px; }
+      .bachelor { left: 201px; top: 290px; }
+      .software-developer-intern { left: 30px; top: 530px; width: 50px; }
+      .junior-software-developer { left: 201px; top: 530px; width: 200px; }
+  
+      /* Icons */
+      .vector,
+      .vector2,
+      .vector3,
+      .vector4 {
+          width: 50px;
+          height: 50px;
+      }
+  
+      .vector,
+      .vector4 { left:30px}
+      .vector2 { left: 63%; transform: translateX(-50%); top: 220px; }
+  
+      .younglings-africa {
+          font-size: 16px;
+          left: 190px;
+          top: 630px;
+      }
+  
+      /* .louwville-high-school */
+      .louwville-high-school {
+          font-size: 15px;
+          left: 20px;
+          top: 330px;
+          width: 120px;
+      }
+  
+      /* .university-of-johannesburg */
+      .university-of-johannesburg {
+          font-size: 15px;
+          left: 190px;
+          top: 380px;
+          width: 100px; /* Adjust width if needed */
+      }
+  
+      /* .capa-citi */
+      .capa-citi {
+          font-size: 15px;
+          left: 20px;
+          top: 630px;
+      }
+  
+      /* .Contact-Button */
+      .Contact-Button {
+          width: 80px;
+          height: 20px;
+          left: 270px;
+          top: 12px;
+      }
+  
+      /* .contact */
+      .contact {
+          font-size: 15px;
+          width: 80px;
+          height: 18px;
+          left: 276px;
+          top: 10px;
+      }
+  
+         /* .Home-Button */
+         .Home-Button {
+          width: 60px;
+          height: 20px;
+          left: 17px;
+          top: 12px;
+      }
+  
+      /* .home */
+      .home {
+          font-size: 15px;
+          width: 70px;
+          left: 22px;
+          top: 10px;
+      }
+  
+      /* ._2010-2014, .july-2023-jan-2024, .jan-2024-present, ._2018-2020 */
+      ._2010-2014, .july-2023-jan-2024, .jan-2024-present, ._2018-2020 {
+          font-size: 15px;
+      }
+  
+      ._2010-2014 {
+        left: 88px;
+        top: 235px;
+      }
+  
+      .Bar-LHS {
+        top: 230px;
+        left: 83px;
+        width: 90px;
+        height: 30px ;
+      }
+  
+      ._2018-2020 {
+        left: 88;
+        top: 235;
+      }
+  
+      .july-2023-jan-2024 {
+        top: 465px;
+        left: 88px;
+        width: 95px;
+      }
+  
+      .Bar-CC {
+        top: 462px;
+        left: 83px;
+        width: 85px;
+      }
+  
+      .Bar-UJ {
+        top: 230px;
+        left: 255px;
+        width: 90px;
+        height: 30px;
+  
+      }
+  
+      ._2018-2020 {
+        top: 235px;
+        left: 260px;
+      }
+  
+      .Bar-YA {
+        top: 462px;
+        left: 255px;
+        width: 85px;
+        height: ;
+      }
+  
+      .jan-2024-present {
+        top: 465px;
+        left: 260px;
+      }
+  }
+  
   </style>
   
