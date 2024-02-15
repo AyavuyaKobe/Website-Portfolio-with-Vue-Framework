@@ -37,7 +37,7 @@
 
     <!-- CV button section -->
     <div class="cv-button">
-      <div class="CV-Button"></div>
+      <!-- <div class="CV-Button"></div> -->
       <div class="download-cv"></div>
     </div>
 
@@ -214,4 +214,102 @@ export default {
   width: 100px;
   height: 22px;
 } 
+
+/* Media query for Samsung S20 screen */
+@media only screen and (max-width: 1440px) {
+    .home-page {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .ayavuya-kobe {
+        width: 50px;
+        left: 15px;
+        font-size: 15px;
+    }
+
+    .ayavuya-kobe2 {
+        font-size: 15px;
+    }
+
+    .contact-button {
+        /* left: calc(100% - 140px); */
+        width: 80px;
+        height: 20px;
+        left: 270px;
+        top: 12px;
+    }
+
+    .junior-software-developer {
+        width: 50px;
+        left: 15px;
+        font-size: 20px;
+        top: 200px;
+    }
+
+    .junior-software-developer2 {
+      font-size: 25px;
+    }
+
+    .addressing-design-challenges-constructing-intelligent-user-interfaces-with-meaningful-interactions-and-creating-sophisticated-web-applications-and-fluid-online-experiences {
+        left: 15px;
+        font-size: 15px;
+        top: 450px;
+    }
+
+    .about-me {
+        left: 15px;
+        font-size: 15px;
+        top: 580px;
+    }
+
+    .cv-button {
+      background-color: #ffffff;
+      border-radius: 16px;
+        left: 15px;
+        top: 652px;
+        width: 120px;
+        height: 20px;
+    }
+
+    /* .CV-Button {
+        right: 79.12%;
+        left: 0%;
+        width: 20.88%;
+        bottom: -478.93%;
+        top: 100%;
+        height: 478.93%;
+    } */
+
+    .download-cv {
+        right: 0%;
+        left: 2.58%;
+        width: 97.42%;
+        bottom: 2.3%;
+        top: 22.99%;
+        height: 74.71%;
+    }
+
+    .icon-git-hub {
+        left: 155px;
+        top: 650px;
+        height: 25px;
+    }
+
+    .download-cv2 {
+        left: 18px;
+        top: 650px;
+        font-size: 15px;
+    }
+
+    .contact {
+        /* left: calc(100% - 130px); */
+        font-size: 15px;
+          width: 80px;
+          height: 18px;
+          left: 276px;
+          top: 10px;
+    }
+}
+
 </style>
