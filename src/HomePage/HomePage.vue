@@ -216,7 +216,7 @@ export default {
 } 
 
 /* Media query for Samsung S20 screen */
-@media only screen and (max-width: 1440px) {
+@media only screen and (max-width: 767px) {
     .home-page {
         width: 100%;
         padding: 0 15px;
